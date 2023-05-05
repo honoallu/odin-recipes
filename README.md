@@ -1,2 +1,2 @@
 # odin-recipes
-Landing Page Oddin Project
+Landing page project for a imaginary bussin
